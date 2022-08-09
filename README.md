@@ -7,3 +7,7 @@ Este repositório armazena os códigos e scripts fornecidos durante as aulas ao 
 Basta clonar o repositório
 
 git clone git@github.com:tryber/sd-026-b-live-lectures.git
+
+### Estrutura
+
+Todos os conteúdos dados em aulas estarão no seu respectivo Pull Request!
