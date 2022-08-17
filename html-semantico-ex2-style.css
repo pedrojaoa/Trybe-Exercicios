@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(235, 223, 217);
+}
+header{
+    background-color: rgb(9, 18, 95);
+}
+h1{
+    color: orangered;
+    text-align: center;
+}
+ul.navigator li{
+    display: inline-block;
+}
+.button-main-page{
+    background-color: rgb(241,80,37);
+    color: black;
+    font-weight: 600;
+    text-align: center;
+    border-radius: 5px;
+    padding: 15px 50px;
+    text-decoration: none;
+    margin-left: 570px;
+    margin-bottom: 10px;
+    display: block;
+    width: 95px;
+    transition: 0.3s all;
+}
+.button-main-page:hover{
+    text-decoration: underline;
+    width: 105px;
+}
+.button-about{
+    background-color: rgb(241,80,37);
+    color: black;
+    font-weight: 600;
+    text-align: center;
+    border-radius: 5px;
+    padding: 15px 50px;
+    text-decoration: none;
+    display: block;
+    position: relative;
+    width: 95px;
+    transition: 0.3s all;
+}
+.button-about:hover{
+    text-decoration: underline;
+    width: 105px;
+}
+.button-contact{
+    background-color: rgb(241,80,37);
+    color: black;
+    font-weight: 600;
+    text-align: center;
+    border-radius: 5px;
+    padding: 15px 50px;
+    text-decoration: none;
+    display: block;
+    position: relative;
+    width: 95px;
+    transition: 0.3s all;
+}
+.button-contact:hover{
+    text-decoration: underline;
+    width: 105px;
+}
+.taxonomy{
+    background-color: cornflowerblue;
+}
+#fig1{
+    width: 400px;
+    position: relative;
+}
