@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+  }
+
+  .first {
+    display: inline-block;
+    margin-left: 40%;
+    background-color: rgb(235, 200, 84);
+    font-size: 20px;
+    height: 50px;
+    text-align: center;
+    width: 200px;
+  }
+
+  .second {
+    margin-left: 24%;
+    background-color: rgb(219, 219, 219);
+    font-size: 20px;
+    height: 50px;
+    text-align: center;
+    width: 300px;
+  }
+
+  .third {
+    background-color: rgb(170, 142, 106);
+    font-size: 20px;
+    height: 50px;
+    text-align: center;
+    width: 300px;
+  }
+ul li.winner{
+    display: block;
+}
+ul li.runner{
+    display: inline-block;
+}
