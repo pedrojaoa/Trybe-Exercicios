@@ -3,8 +3,8 @@ h1 {
   }
 
   .first {
-    display: inline-block;
-    margin-left: 40%;
+    display: block;
+    margin-left: 43%;
     background-color: rgb(235, 200, 84);
     font-size: 20px;
     height: 50px;
@@ -13,7 +13,7 @@ h1 {
   }
 
   .second {
-    margin-left: 24%;
+    margin-left: 31%;
     background-color: rgb(219, 219, 219);
     font-size: 20px;
     height: 50px;
@@ -27,30 +27,27 @@ h1 {
     height: 50px;
     text-align: center;
     width: 300px;
-  }
-ul li.winner{
-    display: block;
 }
 ul li.runner{
     display: inline-block;
 }
-h3{
+h2{
     margin-left: 41%;
 }
 ul.prizes li{
     display: inline-block;
 }
 ul li.prize-item-1{
-    margin-left: 24%;
+    margin-left: 30.5%;
 }
 ul li.prize-item-3{
-    margin-left: 25%;
+    margin-left: 31.5%;
 }
 ul li.prize-item-5{
-    margin-left: 25%;
+    margin-left: 31.5%;
 }
 footer{
     color:rgb(77, 76, 76);
     font-weight: bold;
-    margin-left: 300px;
+    margin-left: 550px;
 }
