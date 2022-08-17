@@ -34,3 +34,23 @@ ul li.winner{
 ul li.runner{
     display: inline-block;
 }
+h3{
+    margin-left: 41%;
+}
+ul.prizes li{
+    display: inline-block;
+}
+ul li.prize-item-1{
+    margin-left: 24%;
+}
+ul li.prize-item-3{
+    margin-left: 25%;
+}
+ul li.prize-item-5{
+    margin-left: 25%;
+}
+footer{
+    color:rgb(77, 76, 76);
+    font-weight: bold;
+    margin-left: 300px;
+}
