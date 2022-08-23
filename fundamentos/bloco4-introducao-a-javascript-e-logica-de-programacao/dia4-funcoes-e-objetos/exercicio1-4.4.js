@@ -10,4 +10,11 @@ let leitor = {
       },
     ],
   };
-  console.log('O livro favorito de ' + leitor.nome + ' ' + leitor.sobrenome + ' ' + 'se chama "' + leitor.livrosFavoritos[0].titulo + '"');
+ leitor.livrosFavoritos.push(
+    {
+        titulo: 'Harry Potter e o Prisioneiro de Askaban',
+        autor: 'JK. Rowling',
+        editora: 'Rocco',
+    },
+ );
+ console.log('O livro favorito de ' + leitor.nome + ' ' + leitor.sobrenome + ' se chama "' + leitor.livrosFavoritos[1].titulo + '"');
