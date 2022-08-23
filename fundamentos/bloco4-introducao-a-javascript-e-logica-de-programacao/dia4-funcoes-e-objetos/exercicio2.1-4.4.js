@@ -6,5 +6,3 @@ function verificaPalindromo(palavra) {
     }
     return true;
 }
-let palavra = 'a rara'
-console.log(palavra.length)
